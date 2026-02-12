@@ -19,7 +19,6 @@ Frontend Engineer focused on building scalable and maintainable Vue 3 + TypeScri
 Interested in data-driven products, clean architecture, and product-quality engineering.
 
 ---
-
 Building data-driven systems with frontend-first expertise and backend integration. | Open to product-focused engineering roles
 
 ---
@@ -27,10 +26,7 @@ Building data-driven systems with frontend-first expertise and backend integrati
 ## ⚡ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,vite,jest,cypress" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,vite,jest,cypress,nodejs,express,python,fastapi,graphql" />
 </p>
 <p>
    <img src="https://skillicons.dev/icons?i=aws,git,githubactions" />
@@ -39,8 +35,7 @@ Building data-driven systems with frontend-first expertise and backend integrati
 </p>
 
 ---
-
-## Backend Experience
+ Backend Experience
 
 - REST API design (Node.js / Express)
 - Data processing (Python)
