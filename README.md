@@ -35,13 +35,13 @@ Building data-driven systems with frontend-first expertise and backend integrati
 </p>
 
 ---
- Backend Experience
+ <!--Backend Experience
 
 - REST API design (Node.js / Express)
 - Data processing (Python)
 - Database integration (PostgreSQL)
 - AWS (RDS / S3)
-
+-->
 
 <!--## 🧠 Engineering Focus
 
