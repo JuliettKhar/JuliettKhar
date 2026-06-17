@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Julia 👋
+# Hi, I'm Juli 👋
 
 Frontend Engineer focused on building scalable and maintainable Vue 3 + TypeScript applications.  
 Interested in data-driven products, clean architecture, and product-quality engineering.
